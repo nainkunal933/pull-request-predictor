@@ -1,0 +1,3091 @@
+[
+    {
+        "id": "10821593484",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 220530746,
+            "name": "nainkunal933/pull-request-predictor",
+            "url": "https://api.github.com/repos/nainkunal933/pull-request-predictor"
+        },
+        "payload": {
+            "ref": "master",
+            "ref_type": "branch",
+            "master_branch": "master",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2019-11-08T19:03:41Z"
+    },
+    {
+        "id": "10821593297",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 220530746,
+            "name": "nainkunal933/pull-request-predictor",
+            "url": "https://api.github.com/repos/nainkunal933/pull-request-predictor"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "master",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2019-11-08T19:03:40Z"
+    },
+    {
+        "id": "10663548618",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4167213857,
+            "size": 2,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "2d65e1a986a861bee5b429a0c3e466718781477f",
+            "before": "b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b",
+            "commits": [
+                {
+                    "sha": "025ec90aa36550cb87bf92d1e38d78a930668588",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Params added for responsive particles canvas",
+                    "distinct": false,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/025ec90aa36550cb87bf92d1e38d78a930668588"
+                },
+                {
+                    "sha": "2d65e1a986a861bee5b429a0c3e466718781477f",
+                    "author": {
+                        "email": "31940639+nainkunal933@users.noreply.github.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Merge pull request #1 from nainkunal933/particles\n\nParams added for responsive particles canvas",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/2d65e1a986a861bee5b429a0c3e466718781477f"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-10-18T16:42:11Z"
+    },
+    {
+        "id": "10663548551",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 1,
+            "pull_request": {
+                "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1",
+                "id": 329830568,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzI5ODMwNTY4",
+                "html_url": "https://github.com/nainkunal933/kunalnain.com/pull/1",
+                "diff_url": "https://github.com/nainkunal933/kunalnain.com/pull/1.diff",
+                "patch_url": "https://github.com/nainkunal933/kunalnain.com/pull/1.patch",
+                "issue_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1",
+                "number": 1,
+                "state": "closed",
+                "locked": false,
+                "title": "Params added for responsive particles canvas",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": "",
+                "created_at": "2019-10-18T16:42:03Z",
+                "updated_at": "2019-10-18T16:42:10Z",
+                "closed_at": "2019-10-18T16:42:10Z",
+                "merged_at": "2019-10-18T16:42:10Z",
+                "merge_commit_sha": "2d65e1a986a861bee5b429a0c3e466718781477f",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/commits",
+                "review_comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/comments",
+                "review_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1/comments",
+                "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/025ec90aa36550cb87bf92d1e38d78a930668588",
+                "head": {
+                    "label": "nainkunal933:particles",
+                    "ref": "particles",
+                    "sha": "025ec90aa36550cb87bf92d1e38d78a930668588",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 205436127,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDU0MzYxMjc=",
+                        "name": "kunalnain.com",
+                        "full_name": "nainkunal933/kunalnain.com",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "description": "Portfolio website built with React.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/nainkunal933/kunalnain.com",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/deployments",
+                        "created_at": "2019-08-30T18:24:05Z",
+                        "updated_at": "2019-10-18T06:20:21Z",
+                        "pushed_at": "2019-10-18T16:42:10Z",
+                        "git_url": "git://github.com/nainkunal933/kunalnain.com.git",
+                        "ssh_url": "git@github.com:nainkunal933/kunalnain.com.git",
+                        "clone_url": "https://github.com/nainkunal933/kunalnain.com.git",
+                        "svn_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "homepage": "https://kunalnain.com/",
+                        "size": 3040,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": true,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "base": {
+                    "label": "nainkunal933:master",
+                    "ref": "master",
+                    "sha": "b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 205436127,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDU0MzYxMjc=",
+                        "name": "kunalnain.com",
+                        "full_name": "nainkunal933/kunalnain.com",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "description": "Portfolio website built with React.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/nainkunal933/kunalnain.com",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/deployments",
+                        "created_at": "2019-08-30T18:24:05Z",
+                        "updated_at": "2019-10-18T06:20:21Z",
+                        "pushed_at": "2019-10-18T16:42:10Z",
+                        "git_url": "git://github.com/nainkunal933/kunalnain.com.git",
+                        "ssh_url": "git@github.com:nainkunal933/kunalnain.com.git",
+                        "clone_url": "https://github.com/nainkunal933/kunalnain.com.git",
+                        "svn_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "homepage": "https://kunalnain.com/",
+                        "size": 3040,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": true,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1"
+                    },
+                    "html": {
+                        "href": "https://github.com/nainkunal933/kunalnain.com/pull/1"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/025ec90aa36550cb87bf92d1e38d78a930668588"
+                    }
+                },
+                "author_association": "OWNER",
+                "merged": true,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 1,
+                "additions": 12,
+                "deletions": 1,
+                "changed_files": 1
+            }
+        },
+        "public": true,
+        "created_at": "2019-10-18T16:42:11Z"
+    },
+    {
+        "id": "10663547611",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 1,
+            "pull_request": {
+                "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1",
+                "id": 329830568,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzI5ODMwNTY4",
+                "html_url": "https://github.com/nainkunal933/kunalnain.com/pull/1",
+                "diff_url": "https://github.com/nainkunal933/kunalnain.com/pull/1.diff",
+                "patch_url": "https://github.com/nainkunal933/kunalnain.com/pull/1.patch",
+                "issue_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1",
+                "number": 1,
+                "state": "open",
+                "locked": false,
+                "title": "Params added for responsive particles canvas",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": "",
+                "created_at": "2019-10-18T16:42:03Z",
+                "updated_at": "2019-10-18T16:42:03Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": null,
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/commits",
+                "review_comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/comments",
+                "review_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1/comments",
+                "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/025ec90aa36550cb87bf92d1e38d78a930668588",
+                "head": {
+                    "label": "nainkunal933:particles",
+                    "ref": "particles",
+                    "sha": "025ec90aa36550cb87bf92d1e38d78a930668588",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 205436127,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDU0MzYxMjc=",
+                        "name": "kunalnain.com",
+                        "full_name": "nainkunal933/kunalnain.com",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "description": "Portfolio website built with React.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/nainkunal933/kunalnain.com",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/deployments",
+                        "created_at": "2019-08-30T18:24:05Z",
+                        "updated_at": "2019-10-18T06:20:21Z",
+                        "pushed_at": "2019-10-18T16:40:52Z",
+                        "git_url": "git://github.com/nainkunal933/kunalnain.com.git",
+                        "ssh_url": "git@github.com:nainkunal933/kunalnain.com.git",
+                        "clone_url": "https://github.com/nainkunal933/kunalnain.com.git",
+                        "svn_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "homepage": "https://kunalnain.com/",
+                        "size": 3040,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": true,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 1,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 1,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "base": {
+                    "label": "nainkunal933:master",
+                    "ref": "master",
+                    "sha": "b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 205436127,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDU0MzYxMjc=",
+                        "name": "kunalnain.com",
+                        "full_name": "nainkunal933/kunalnain.com",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "description": "Portfolio website built with React.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/nainkunal933/kunalnain.com",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/kunalnain.com/deployments",
+                        "created_at": "2019-08-30T18:24:05Z",
+                        "updated_at": "2019-10-18T06:20:21Z",
+                        "pushed_at": "2019-10-18T16:40:52Z",
+                        "git_url": "git://github.com/nainkunal933/kunalnain.com.git",
+                        "ssh_url": "git@github.com:nainkunal933/kunalnain.com.git",
+                        "clone_url": "https://github.com/nainkunal933/kunalnain.com.git",
+                        "svn_url": "https://github.com/nainkunal933/kunalnain.com",
+                        "homepage": "https://kunalnain.com/",
+                        "size": 3040,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": true,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 1,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 1,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1"
+                    },
+                    "html": {
+                        "href": "https://github.com/nainkunal933/kunalnain.com/pull/1"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/issues/1/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/pulls/1/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/nainkunal933/kunalnain.com/statuses/025ec90aa36550cb87bf92d1e38d78a930668588"
+                    }
+                },
+                "author_association": "OWNER",
+                "merged": false,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": null,
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 1,
+                "additions": 12,
+                "deletions": 1,
+                "changed_files": 1
+            }
+        },
+        "public": true,
+        "created_at": "2019-10-18T16:42:03Z"
+    },
+    {
+        "id": "10663539244",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "ref": "particles",
+            "ref_type": "branch",
+            "master_branch": "master",
+            "description": "Portfolio website built with React.js",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2019-10-18T16:40:53Z"
+    },
+    {
+        "id": "10658977843",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4164826236,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b",
+            "before": "1f1241c3bfab0e81bf307107a1827ae22b6c66db",
+            "commits": [
+                {
+                    "sha": "b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Horizontal Scroll Bar issue fixed",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/b9d9f0dc1bdf49de2c1d0e097cbc3a52fc54ff1b"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-10-18T06:20:21Z"
+    },
+    {
+        "id": "10588022591",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4126884804,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "1f1241c3bfab0e81bf307107a1827ae22b6c66db",
+            "before": "921d0f6fcf107196cbab33f888fcb630d79930d7",
+            "commits": [
+                {
+                    "sha": "1f1241c3bfab0e81bf307107a1827ae22b6c66db",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Added support for .html in the URL",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/1f1241c3bfab0e81bf307107a1827ae22b6c66db"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-10-09T00:16:13Z"
+    },
+    {
+        "id": "10526713824",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4094081859,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "921d0f6fcf107196cbab33f888fcb630d79930d7",
+            "before": "17a2d5d5cb9b42b023fcedbe86ed678e856fea61",
+            "commits": [
+                {
+                    "sha": "921d0f6fcf107196cbab33f888fcb630d79930d7",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Updated meta description and title",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/921d0f6fcf107196cbab33f888fcb630d79930d7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-30T17:42:24Z"
+    },
+    {
+        "id": "10526347120",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4093895900,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "17a2d5d5cb9b42b023fcedbe86ed678e856fea61",
+            "before": "ac751268e4509a8cded0eebc91c50938ff434aae",
+            "commits": [
+                {
+                    "sha": "17a2d5d5cb9b42b023fcedbe86ed678e856fea61",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Added footer privacy policy and terms of service; Added target=_blank for third party links",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/17a2d5d5cb9b42b023fcedbe86ed678e856fea61"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-30T16:54:01Z"
+    },
+    {
+        "id": "10452576091",
+        "type": "PullRequestReviewCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/pulls/comments/326221446",
+                "pull_request_review_id": 290630836,
+                "id": 326221446,
+                "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDMyNjIyMTQ0Ng==",
+                "diff_hunk": "@@ -67,3 +67,19 @@ UserModel.findCreateFind({\n   }\n })\n \n+class ModelCompositePrimaryKey extends Model {}\n+\n+ModelCompositePrimaryKey.init({\n+  uid: { type: DataTypes.INTEGER, primaryKey: true, autoIncrement: true },\n+  primaryKeyOne: { type: DataTypes.STRING, primaryKey: true, allowNull: false },\n+  title: DataTypes.STRING,\n+  description: DataTypes.TEXT,\n+}, { sequelize, modelName: 'ModelCompositePrimaryKey' });\n+\n+ModelCompositePrimaryKey\n+  .create({ primaryKeyOne: \"Type 1\", title: 'Test Record', description: 'Record created to test composite primary key' })\n+  .then(modelCompositePrimaryKey => {\n+    console.log(modelCompositePrimaryKey.get('title'));\n+    console.log(modelCompositePrimaryKey.get('description'));\n+    console.log(ModelCompositePrimaryKey.primaryKeyAttributes);\n+  })",
+                "path": "types/test/model.ts",
+                "position": null,
+                "original_position": 19,
+                "commit_id": "83baaa09b9b73b7793e054639b665e75051d35d7",
+                "original_commit_id": "ca184892078d5de40036ec96d8cc49eecba52d8d",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": "Hi @papb, I understand my test was too complicated. Thank you for the thorough explanation. I have made the changes. Please let me know if the changes are ok.",
+                "created_at": "2019-09-19T14:55:40Z",
+                "updated_at": "2019-09-19T14:55:41Z",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406#discussion_r326221446",
+                "pull_request_url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                "author_association": "NONE",
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/comments/326221446"
+                    },
+                    "html": {
+                        "href": "https://github.com/sequelize/sequelize/pull/11406#discussion_r326221446"
+                    },
+                    "pull_request": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406"
+                    }
+                },
+                "in_reply_to_id": 325964500
+            },
+            "pull_request": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                "id": 315341881,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "number": 11406,
+                "state": "open",
+                "locked": false,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [x] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [x] Have you added new tests to prevent regressions?\r\n- [x] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [x] Did you update the typescript typings accordingly (if applicable)?\r\n- [x] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n",
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-19T14:55:41Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": "06efd809567fd168cdd71c7a3b90962ceb801c23",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [
+                    {
+                        "id": 1465785227,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1MjI3",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20awaiting%20response",
+                        "name": "status: awaiting response",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "milestone": null,
+                "commits_url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/commits",
+                "review_comments_url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/comments",
+                "review_comment_url": "https://api.github.com/repos/sequelize/sequelize/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "statuses_url": "https://api.github.com/repos/sequelize/sequelize/statuses/83baaa09b9b73b7793e054639b665e75051d35d7",
+                "head": {
+                    "label": "nainkunal933:issue-11392",
+                    "ref": "issue-11392",
+                    "sha": "83baaa09b9b73b7793e054639b665e75051d35d7",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 207209422,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDcyMDk0MjI=",
+                        "name": "sequelize",
+                        "full_name": "nainkunal933/sequelize",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/sequelize",
+                        "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+                        "fork": true,
+                        "url": "https://api.github.com/repos/nainkunal933/sequelize",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/sequelize/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/sequelize/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/sequelize/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/sequelize/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/sequelize/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/sequelize/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/sequelize/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/sequelize/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/sequelize/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/sequelize/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/sequelize/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/sequelize/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/sequelize/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/sequelize/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/sequelize/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/sequelize/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/sequelize/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/sequelize/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/sequelize/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/sequelize/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/sequelize/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/sequelize/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/sequelize/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/sequelize/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/sequelize/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/sequelize/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/sequelize/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/sequelize/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/sequelize/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/sequelize/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/sequelize/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/sequelize/deployments",
+                        "created_at": "2019-09-09T02:41:23Z",
+                        "updated_at": "2019-09-09T02:41:25Z",
+                        "pushed_at": "2019-09-19T14:46:36Z",
+                        "git_url": "git://github.com/nainkunal933/sequelize.git",
+                        "ssh_url": "git@github.com:nainkunal933/sequelize.git",
+                        "clone_url": "https://github.com/nainkunal933/sequelize.git",
+                        "svn_url": "https://github.com/nainkunal933/sequelize",
+                        "homepage": "https://sequelize.org",
+                        "size": 26116,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": null,
+                        "has_issues": false,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "base": {
+                    "label": "sequelize:master",
+                    "ref": "master",
+                    "sha": "d5e4a10f4e8dc1e37fe46678f04bbfa66b1299cc",
+                    "user": {
+                        "login": "sequelize",
+                        "id": 3591786,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1OTE3ODY=",
+                        "avatar_url": "https://avatars0.githubusercontent.com/u/3591786?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/sequelize",
+                        "html_url": "https://github.com/sequelize",
+                        "followers_url": "https://api.github.com/users/sequelize/followers",
+                        "following_url": "https://api.github.com/users/sequelize/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/sequelize/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/sequelize/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/sequelize/subscriptions",
+                        "organizations_url": "https://api.github.com/users/sequelize/orgs",
+                        "repos_url": "https://api.github.com/users/sequelize/repos",
+                        "events_url": "https://api.github.com/users/sequelize/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/sequelize/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 790359,
+                        "node_id": "MDEwOlJlcG9zaXRvcnk3OTAzNTk=",
+                        "name": "sequelize",
+                        "full_name": "sequelize/sequelize",
+                        "private": false,
+                        "owner": {
+                            "login": "sequelize",
+                            "id": 3591786,
+                            "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1OTE3ODY=",
+                            "avatar_url": "https://avatars0.githubusercontent.com/u/3591786?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/sequelize",
+                            "html_url": "https://github.com/sequelize",
+                            "followers_url": "https://api.github.com/users/sequelize/followers",
+                            "following_url": "https://api.github.com/users/sequelize/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/sequelize/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/sequelize/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/sequelize/subscriptions",
+                            "organizations_url": "https://api.github.com/users/sequelize/orgs",
+                            "repos_url": "https://api.github.com/users/sequelize/repos",
+                            "events_url": "https://api.github.com/users/sequelize/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/sequelize/received_events",
+                            "type": "Organization",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/sequelize/sequelize",
+                        "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/sequelize/sequelize",
+                        "forks_url": "https://api.github.com/repos/sequelize/sequelize/forks",
+                        "keys_url": "https://api.github.com/repos/sequelize/sequelize/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/sequelize/sequelize/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/sequelize/sequelize/teams",
+                        "hooks_url": "https://api.github.com/repos/sequelize/sequelize/hooks",
+                        "issue_events_url": "https://api.github.com/repos/sequelize/sequelize/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/sequelize/sequelize/events",
+                        "assignees_url": "https://api.github.com/repos/sequelize/sequelize/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/sequelize/sequelize/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/sequelize/sequelize/tags",
+                        "blobs_url": "https://api.github.com/repos/sequelize/sequelize/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/sequelize/sequelize/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/sequelize/sequelize/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/sequelize/sequelize/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/sequelize/sequelize/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/sequelize/sequelize/languages",
+                        "stargazers_url": "https://api.github.com/repos/sequelize/sequelize/stargazers",
+                        "contributors_url": "https://api.github.com/repos/sequelize/sequelize/contributors",
+                        "subscribers_url": "https://api.github.com/repos/sequelize/sequelize/subscribers",
+                        "subscription_url": "https://api.github.com/repos/sequelize/sequelize/subscription",
+                        "commits_url": "https://api.github.com/repos/sequelize/sequelize/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/sequelize/sequelize/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/sequelize/sequelize/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/sequelize/sequelize/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/sequelize/sequelize/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/sequelize/sequelize/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/sequelize/sequelize/merges",
+                        "archive_url": "https://api.github.com/repos/sequelize/sequelize/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/sequelize/sequelize/downloads",
+                        "issues_url": "https://api.github.com/repos/sequelize/sequelize/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/sequelize/sequelize/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/sequelize/sequelize/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/sequelize/sequelize/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/sequelize/sequelize/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/sequelize/sequelize/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/sequelize/sequelize/deployments",
+                        "created_at": "2010-07-22T07:11:11Z",
+                        "updated_at": "2019-09-19T14:37:17Z",
+                        "pushed_at": "2019-09-19T14:46:42Z",
+                        "git_url": "git://github.com/sequelize/sequelize.git",
+                        "ssh_url": "git@github.com:sequelize/sequelize.git",
+                        "clone_url": "https://github.com/sequelize/sequelize.git",
+                        "svn_url": "https://github.com/sequelize/sequelize",
+                        "homepage": "https://sequelize.org",
+                        "size": 26152,
+                        "stargazers_count": 19895,
+                        "watchers_count": 19895,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": false,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "forks_count": 3105,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 600,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 3105,
+                        "open_issues": 600,
+                        "watchers": 19895,
+                        "default_branch": "master"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406"
+                    },
+                    "html": {
+                        "href": "https://github.com/sequelize/sequelize/pull/11406"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/issues/11406"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/statuses/83baaa09b9b73b7793e054639b665e75051d35d7"
+                    }
+                },
+                "author_association": "NONE"
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-19T14:55:40Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10452489284",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 207209422,
+            "name": "nainkunal933/sequelize",
+            "url": "https://api.github.com/repos/nainkunal933/sequelize"
+        },
+        "payload": {
+            "push_id": 4053479386,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/issue-11392",
+            "head": "83baaa09b9b73b7793e054639b665e75051d35d7",
+            "before": "ca184892078d5de40036ec96d8cc49eecba52d8d",
+            "commits": [
+                {
+                    "sha": "83baaa09b9b73b7793e054639b665e75051d35d7",
+                    "author": {
+                        "email": "azure-admin@m8systems.com",
+                        "name": "Kunal"
+                    },
+                    "message": "test(models): updated test cases for primary key attributes",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/sequelize/commits/83baaa09b9b73b7793e054639b665e75051d35d7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-19T14:46:41Z"
+    },
+    {
+        "id": "10437392533",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/events",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "id": 490856614,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "number": 11406,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 1465785227,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1MjI3",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20awaiting%20response",
+                        "name": "status: awaiting response",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 6,
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-17T21:56:40Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "pull_request": {
+                    "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                    "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                    "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                    "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch"
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [x] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [x] Have you added new tests to prevent regressions?\r\n- [x] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [x] Did you update the typescript typings accordingly (if applicable)?\r\n- [x] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/532417770",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406#issuecomment-532417770",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "id": 532417770,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUzMjQxNzc3MA==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-17T21:56:40Z",
+                "updated_at": "2019-09-17T21:56:40Z",
+                "author_association": "NONE",
+                "body": "Hi @papb, any updates on this PR."
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-17T21:56:40Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10390800368",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4020218504,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "ac751268e4509a8cded0eebc91c50938ff434aae",
+            "before": "04a9e1c8c3fdf223024586e417b95afb518b0863",
+            "commits": [
+                {
+                    "sha": "ac751268e4509a8cded0eebc91c50938ff434aae",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "updated resume",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/ac751268e4509a8cded0eebc91c50938ff434aae"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-11T05:24:00Z"
+    },
+    {
+        "id": "10386197105",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 15480067,
+            "name": "react-bootstrap/react-bootstrap",
+            "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2019-09-10T15:21:18Z",
+        "org": {
+            "id": 6853419,
+            "login": "react-bootstrap",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/react-bootstrap",
+            "avatar_url": "https://avatars.githubusercontent.com/u/6853419?"
+        }
+    },
+    {
+        "id": "10381336916",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/events",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "id": 490856614,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "number": 11406,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 1465785227,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1MjI3",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20awaiting%20response",
+                        "name": "status: awaiting response",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 5,
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-10T03:22:10Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "pull_request": {
+                    "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                    "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                    "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                    "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch"
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [x] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [ ] Have you added new tests to prevent regressions?\r\n- [ ] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [ ] Did you update the typescript typings accordingly (if applicable)?\r\n- [x] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/529752052",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406#issuecomment-529752052",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "id": 529752052,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUyOTc1MjA1Mg==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-10T03:22:10Z",
+                "updated_at": "2019-09-10T03:22:10Z",
+                "author_association": "NONE",
+                "body": "Also, in terms of documentation, the [model definition page](https://sequelize.org/master/manual/models-definition.html#indexes) has documentation for multiple indexes. So, for now, I will consider the documentation update to be done.\r\n![Snip20190909_11](https://user-images.githubusercontent.com/31940639/64581506-4ffea680-d33f-11e9-8251-72b1543973ec.png)\r\n"
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-10T03:22:10Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10381326611",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/events",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "id": 490856614,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "number": 11406,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 1465785227,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1MjI3",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20awaiting%20response",
+                        "name": "status: awaiting response",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 4,
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-10T03:19:25Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "pull_request": {
+                    "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                    "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                    "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                    "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch"
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [x] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [ ] Have you added new tests to prevent regressions?\r\n- [ ] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [ ] Did you update the typescript typings accordingly (if applicable)?\r\n- [x] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/529751518",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406#issuecomment-529751518",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "id": 529751518,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUyOTc1MTUxOA==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-10T03:19:25Z",
+                "updated_at": "2019-09-10T03:19:25Z",
+                "author_association": "NONE",
+                "body": "Hi @papb, I have added the test case in mode.ts. Please let me know if it is what you expected. \r\n\r\nSorry for my ignorance. I am new to open source. Thank you for helping me. "
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-10T03:19:26Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10381271840",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 207209422,
+            "name": "nainkunal933/sequelize",
+            "url": "https://api.github.com/repos/nainkunal933/sequelize"
+        },
+        "payload": {
+            "push_id": 4015244687,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/issue-11392",
+            "head": "ca184892078d5de40036ec96d8cc49eecba52d8d",
+            "before": "5433d5a255534e3b35b6e740176f7ac65edd7e7a",
+            "commits": [
+                {
+                    "sha": "ca184892078d5de40036ec96d8cc49eecba52d8d",
+                    "author": {
+                        "email": "azure-admin@m8systems.com",
+                        "name": "Kunal"
+                    },
+                    "message": "test(models): added missing test case for multiple primary key",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/sequelize/commits/ca184892078d5de40036ec96d8cc49eecba52d8d"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-10T03:05:04Z"
+    },
+    {
+        "id": "10380997819",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4015096025,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "04a9e1c8c3fdf223024586e417b95afb518b0863",
+            "before": "bb023e023b0abe3812ce8b07214a819699be16f3",
+            "commits": [
+                {
+                    "sha": "04a9e1c8c3fdf223024586e417b95afb518b0863",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Debugged the my-geo route refresh issue",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/04a9e1c8c3fdf223024586e417b95afb518b0863"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-10T01:56:17Z"
+    },
+    {
+        "id": "10380412019",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205436127,
+            "name": "nainkunal933/kunalnain.com",
+            "url": "https://api.github.com/repos/nainkunal933/kunalnain.com"
+        },
+        "payload": {
+            "push_id": 4014781860,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "bb023e023b0abe3812ce8b07214a819699be16f3",
+            "before": "3b18d97de42886e4fbfa6e4994a65f34bef0cde8",
+            "commits": [
+                {
+                    "sha": "bb023e023b0abe3812ce8b07214a819699be16f3",
+                    "author": {
+                        "email": "nainkunal933@gmail.com",
+                        "name": "Kunal Nain"
+                    },
+                    "message": "Added react router and MyGEO demo",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/kunalnain.com/commits/bb023e023b0abe3812ce8b07214a819699be16f3"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-09T23:23:38Z"
+    },
+    {
+        "id": "10378289089",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/events",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "id": 490856614,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "number": 11406,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 1465785227,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1MjI3",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20awaiting%20response",
+                        "name": "status: awaiting response",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-09T17:47:54Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "pull_request": {
+                    "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                    "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                    "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                    "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch"
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [x] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [ ] Have you added new tests to prevent regressions?\r\n- [ ] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [ ] Did you update the typescript typings accordingly (if applicable)?\r\n- [x] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/529591674",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406#issuecomment-529591674",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "id": 529591674,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUyOTU5MTY3NA==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-09T17:47:54Z",
+                "updated_at": "2019-09-09T17:47:54Z",
+                "author_association": "NONE",
+                "body": "Hi @papb, I was going through the test cases in the previous PR. I am planning to add the test case in ```types/test/model.ts```. The current model has only one index 'foo'. How do I add another index in the array? I do not know the other fields of the table.\r\nCurrent Model: \r\n![Snip20190909_10](https://user-images.githubusercontent.com/31940639/64553931-32095580-d2ef-11e9-97e8-8d76f1986b6d.png)\r\n I am trying to do the following:\r\n```typescript\r\nindexes: [\r\n    {\r\n      fields: ['foo'],\r\n      using: 'gin',\r\n      operator: 'jsonb_path_ops',\r\n    },\r\n   {\r\n      fields: ['COLUMN_NAME_HERE'],\r\n      using: 'gin',\r\n      operator: 'jsonb_path_ops',\r\n    }\r\n  ],\r\n```\r\nIf this works, then it will test whether the DB will accept composite primary keys with multiple columns. Please let me know if I am on the right track. Thank you. "
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-09T17:47:54Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10372592653",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 237159,
+            "name": "expressjs/express",
+            "url": "https://api.github.com/repos/expressjs/express"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2019-09-09T03:48:51Z",
+        "org": {
+            "id": 5658226,
+            "login": "expressjs",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/expressjs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5658226?"
+        }
+    },
+    {
+        "id": "10372540826",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2019-09-09T03:32:32Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10372540681",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2019-09-09T03:32:29Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10372501035",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 11406,
+            "pull_request": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406",
+                "id": 315341881,
+                "node_id": "MDExOlB1bGxSZXF1ZXN0MzE1MzQxODgx",
+                "html_url": "https://github.com/sequelize/sequelize/pull/11406",
+                "diff_url": "https://github.com/sequelize/sequelize/pull/11406.diff",
+                "patch_url": "https://github.com/sequelize/sequelize/pull/11406.patch",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406",
+                "number": 11406,
+                "state": "open",
+                "locked": false,
+                "title": "feat: added support for multiple primary key attributes",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": "added support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\ncloses #11392\r\n\r\n<!-- \r\nThanks for wanting to fix something on Sequelize - we already love you!\r\nPlease fill in the template below.\r\nIf unsure about something, just do as best as you're able.\r\n\r\nIf your PR only contains changes to documentation, you may skip the template below.\r\n-->\r\n\r\n### Pull Request check-list\r\n\r\n_Please make sure to review and check all of these items:_\r\n\r\n- [ ] Does `npm run test` or `npm run test-DIALECT` pass with this change (including linting)?\r\n- [ ] Does the description below contain a link to an existing issue (Closes #[issue]) or a description of the issue you are solving?\r\n- [ ] Have you added new tests to prevent regressions?\r\n- [ ] Is a documentation update included (if this change modifies existing APIs, or introduces new ones)?\r\n- [ ] Did you update the typescript typings accordingly (if applicable)?\r\n- [ ] Did you follow the commit message conventions explained in [CONTRIBUTING.md](https://github.com/sequelize/sequelize/blob/master/CONTRIBUTING.md)?\r\n\r\n<!-- NOTE: these things are not required to open a PR and can be done afterwards / while the PR is open. -->\r\n\r\n### Description of change\r\n\r\n<!-- Please provide a description of the change here. -->\r\n",
+                "created_at": "2019-09-09T03:20:25Z",
+                "updated_at": "2019-09-09T03:20:25Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": null,
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "commits_url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/commits",
+                "review_comments_url": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/comments",
+                "review_comment_url": "https://api.github.com/repos/sequelize/sequelize/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments",
+                "statuses_url": "https://api.github.com/repos/sequelize/sequelize/statuses/5433d5a255534e3b35b6e740176f7ac65edd7e7a",
+                "head": {
+                    "label": "nainkunal933:issue-11392",
+                    "ref": "issue-11392",
+                    "sha": "5433d5a255534e3b35b6e740176f7ac65edd7e7a",
+                    "user": {
+                        "login": "nainkunal933",
+                        "id": 31940639,
+                        "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/nainkunal933",
+                        "html_url": "https://github.com/nainkunal933",
+                        "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                        "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                        "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                        "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                        "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 207209422,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkyMDcyMDk0MjI=",
+                        "name": "sequelize",
+                        "full_name": "nainkunal933/sequelize",
+                        "private": false,
+                        "owner": {
+                            "login": "nainkunal933",
+                            "id": 31940639,
+                            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/nainkunal933",
+                            "html_url": "https://github.com/nainkunal933",
+                            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/nainkunal933/sequelize",
+                        "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+                        "fork": true,
+                        "url": "https://api.github.com/repos/nainkunal933/sequelize",
+                        "forks_url": "https://api.github.com/repos/nainkunal933/sequelize/forks",
+                        "keys_url": "https://api.github.com/repos/nainkunal933/sequelize/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/nainkunal933/sequelize/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/nainkunal933/sequelize/teams",
+                        "hooks_url": "https://api.github.com/repos/nainkunal933/sequelize/hooks",
+                        "issue_events_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/nainkunal933/sequelize/events",
+                        "assignees_url": "https://api.github.com/repos/nainkunal933/sequelize/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/nainkunal933/sequelize/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/nainkunal933/sequelize/tags",
+                        "blobs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/nainkunal933/sequelize/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/nainkunal933/sequelize/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/nainkunal933/sequelize/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/nainkunal933/sequelize/languages",
+                        "stargazers_url": "https://api.github.com/repos/nainkunal933/sequelize/stargazers",
+                        "contributors_url": "https://api.github.com/repos/nainkunal933/sequelize/contributors",
+                        "subscribers_url": "https://api.github.com/repos/nainkunal933/sequelize/subscribers",
+                        "subscription_url": "https://api.github.com/repos/nainkunal933/sequelize/subscription",
+                        "commits_url": "https://api.github.com/repos/nainkunal933/sequelize/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/nainkunal933/sequelize/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/nainkunal933/sequelize/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/nainkunal933/sequelize/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/nainkunal933/sequelize/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/nainkunal933/sequelize/merges",
+                        "archive_url": "https://api.github.com/repos/nainkunal933/sequelize/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/nainkunal933/sequelize/downloads",
+                        "issues_url": "https://api.github.com/repos/nainkunal933/sequelize/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/nainkunal933/sequelize/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/nainkunal933/sequelize/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/nainkunal933/sequelize/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/nainkunal933/sequelize/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/nainkunal933/sequelize/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/nainkunal933/sequelize/deployments",
+                        "created_at": "2019-09-09T02:41:23Z",
+                        "updated_at": "2019-09-09T02:41:25Z",
+                        "pushed_at": "2019-09-09T02:59:03Z",
+                        "git_url": "git://github.com/nainkunal933/sequelize.git",
+                        "ssh_url": "git@github.com:nainkunal933/sequelize.git",
+                        "clone_url": "https://github.com/nainkunal933/sequelize.git",
+                        "svn_url": "https://github.com/nainkunal933/sequelize",
+                        "homepage": "https://sequelize.org",
+                        "size": 26110,
+                        "stargazers_count": 0,
+                        "watchers_count": 0,
+                        "language": null,
+                        "has_issues": false,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 0,
+                        "default_branch": "master"
+                    }
+                },
+                "base": {
+                    "label": "sequelize:master",
+                    "ref": "master",
+                    "sha": "d5e4a10f4e8dc1e37fe46678f04bbfa66b1299cc",
+                    "user": {
+                        "login": "sequelize",
+                        "id": 3591786,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1OTE3ODY=",
+                        "avatar_url": "https://avatars0.githubusercontent.com/u/3591786?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/sequelize",
+                        "html_url": "https://github.com/sequelize",
+                        "followers_url": "https://api.github.com/users/sequelize/followers",
+                        "following_url": "https://api.github.com/users/sequelize/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/sequelize/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/sequelize/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/sequelize/subscriptions",
+                        "organizations_url": "https://api.github.com/users/sequelize/orgs",
+                        "repos_url": "https://api.github.com/users/sequelize/repos",
+                        "events_url": "https://api.github.com/users/sequelize/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/sequelize/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 790359,
+                        "node_id": "MDEwOlJlcG9zaXRvcnk3OTAzNTk=",
+                        "name": "sequelize",
+                        "full_name": "sequelize/sequelize",
+                        "private": false,
+                        "owner": {
+                            "login": "sequelize",
+                            "id": 3591786,
+                            "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1OTE3ODY=",
+                            "avatar_url": "https://avatars0.githubusercontent.com/u/3591786?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/sequelize",
+                            "html_url": "https://github.com/sequelize",
+                            "followers_url": "https://api.github.com/users/sequelize/followers",
+                            "following_url": "https://api.github.com/users/sequelize/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/sequelize/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/sequelize/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/sequelize/subscriptions",
+                            "organizations_url": "https://api.github.com/users/sequelize/orgs",
+                            "repos_url": "https://api.github.com/users/sequelize/repos",
+                            "events_url": "https://api.github.com/users/sequelize/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/sequelize/received_events",
+                            "type": "Organization",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/sequelize/sequelize",
+                        "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+                        "fork": false,
+                        "url": "https://api.github.com/repos/sequelize/sequelize",
+                        "forks_url": "https://api.github.com/repos/sequelize/sequelize/forks",
+                        "keys_url": "https://api.github.com/repos/sequelize/sequelize/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/sequelize/sequelize/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/sequelize/sequelize/teams",
+                        "hooks_url": "https://api.github.com/repos/sequelize/sequelize/hooks",
+                        "issue_events_url": "https://api.github.com/repos/sequelize/sequelize/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/sequelize/sequelize/events",
+                        "assignees_url": "https://api.github.com/repos/sequelize/sequelize/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/sequelize/sequelize/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/sequelize/sequelize/tags",
+                        "blobs_url": "https://api.github.com/repos/sequelize/sequelize/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/sequelize/sequelize/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/sequelize/sequelize/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/sequelize/sequelize/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/sequelize/sequelize/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/sequelize/sequelize/languages",
+                        "stargazers_url": "https://api.github.com/repos/sequelize/sequelize/stargazers",
+                        "contributors_url": "https://api.github.com/repos/sequelize/sequelize/contributors",
+                        "subscribers_url": "https://api.github.com/repos/sequelize/sequelize/subscribers",
+                        "subscription_url": "https://api.github.com/repos/sequelize/sequelize/subscription",
+                        "commits_url": "https://api.github.com/repos/sequelize/sequelize/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/sequelize/sequelize/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/sequelize/sequelize/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/sequelize/sequelize/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/sequelize/sequelize/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/sequelize/sequelize/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/sequelize/sequelize/merges",
+                        "archive_url": "https://api.github.com/repos/sequelize/sequelize/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/sequelize/sequelize/downloads",
+                        "issues_url": "https://api.github.com/repos/sequelize/sequelize/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/sequelize/sequelize/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/sequelize/sequelize/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/sequelize/sequelize/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/sequelize/sequelize/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/sequelize/sequelize/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/sequelize/sequelize/deployments",
+                        "created_at": "2010-07-22T07:11:11Z",
+                        "updated_at": "2019-09-09T02:45:18Z",
+                        "pushed_at": "2019-09-08T19:03:24Z",
+                        "git_url": "git://github.com/sequelize/sequelize.git",
+                        "ssh_url": "git@github.com:sequelize/sequelize.git",
+                        "clone_url": "https://github.com/sequelize/sequelize.git",
+                        "svn_url": "https://github.com/sequelize/sequelize",
+                        "homepage": "https://sequelize.org",
+                        "size": 26110,
+                        "stargazers_count": 19816,
+                        "watchers_count": 19816,
+                        "language": "JavaScript",
+                        "has_issues": true,
+                        "has_projects": false,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "forks_count": 3090,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 571,
+                        "license": {
+                            "key": "mit",
+                            "name": "MIT License",
+                            "spdx_id": "MIT",
+                            "url": "https://api.github.com/licenses/mit",
+                            "node_id": "MDc6TGljZW5zZTEz"
+                        },
+                        "forks": 3090,
+                        "open_issues": 571,
+                        "watchers": 19816,
+                        "default_branch": "master"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406"
+                    },
+                    "html": {
+                        "href": "https://github.com/sequelize/sequelize/pull/11406"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/issues/11406"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/issues/11406/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/pulls/11406/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/sequelize/sequelize/statuses/5433d5a255534e3b35b6e740176f7ac65edd7e7a"
+                    }
+                },
+                "author_association": "NONE",
+                "merged": false,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": null,
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": true,
+                "commits": 1,
+                "additions": 5,
+                "deletions": 0,
+                "changed_files": 1
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-09T03:20:25Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10372430990",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 207209422,
+            "name": "nainkunal933/sequelize",
+            "url": "https://api.github.com/repos/nainkunal933/sequelize"
+        },
+        "payload": {
+            "ref": "issue-11392",
+            "ref_type": "branch",
+            "master_branch": "master",
+            "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2019-09-09T02:59:08Z"
+    },
+    {
+        "id": "10372370156",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "forkee": {
+                "id": 207209422,
+                "node_id": "MDEwOlJlcG9zaXRvcnkyMDcyMDk0MjI=",
+                "name": "sequelize",
+                "full_name": "nainkunal933/sequelize",
+                "private": false,
+                "owner": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "html_url": "https://github.com/nainkunal933/sequelize",
+                "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+                "fork": true,
+                "url": "https://api.github.com/repos/nainkunal933/sequelize",
+                "forks_url": "https://api.github.com/repos/nainkunal933/sequelize/forks",
+                "keys_url": "https://api.github.com/repos/nainkunal933/sequelize/keys{/key_id}",
+                "collaborators_url": "https://api.github.com/repos/nainkunal933/sequelize/collaborators{/collaborator}",
+                "teams_url": "https://api.github.com/repos/nainkunal933/sequelize/teams",
+                "hooks_url": "https://api.github.com/repos/nainkunal933/sequelize/hooks",
+                "issue_events_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/events{/number}",
+                "events_url": "https://api.github.com/repos/nainkunal933/sequelize/events",
+                "assignees_url": "https://api.github.com/repos/nainkunal933/sequelize/assignees{/user}",
+                "branches_url": "https://api.github.com/repos/nainkunal933/sequelize/branches{/branch}",
+                "tags_url": "https://api.github.com/repos/nainkunal933/sequelize/tags",
+                "blobs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/blobs{/sha}",
+                "git_tags_url": "https://api.github.com/repos/nainkunal933/sequelize/git/tags{/sha}",
+                "git_refs_url": "https://api.github.com/repos/nainkunal933/sequelize/git/refs{/sha}",
+                "trees_url": "https://api.github.com/repos/nainkunal933/sequelize/git/trees{/sha}",
+                "statuses_url": "https://api.github.com/repos/nainkunal933/sequelize/statuses/{sha}",
+                "languages_url": "https://api.github.com/repos/nainkunal933/sequelize/languages",
+                "stargazers_url": "https://api.github.com/repos/nainkunal933/sequelize/stargazers",
+                "contributors_url": "https://api.github.com/repos/nainkunal933/sequelize/contributors",
+                "subscribers_url": "https://api.github.com/repos/nainkunal933/sequelize/subscribers",
+                "subscription_url": "https://api.github.com/repos/nainkunal933/sequelize/subscription",
+                "commits_url": "https://api.github.com/repos/nainkunal933/sequelize/commits{/sha}",
+                "git_commits_url": "https://api.github.com/repos/nainkunal933/sequelize/git/commits{/sha}",
+                "comments_url": "https://api.github.com/repos/nainkunal933/sequelize/comments{/number}",
+                "issue_comment_url": "https://api.github.com/repos/nainkunal933/sequelize/issues/comments{/number}",
+                "contents_url": "https://api.github.com/repos/nainkunal933/sequelize/contents/{+path}",
+                "compare_url": "https://api.github.com/repos/nainkunal933/sequelize/compare/{base}...{head}",
+                "merges_url": "https://api.github.com/repos/nainkunal933/sequelize/merges",
+                "archive_url": "https://api.github.com/repos/nainkunal933/sequelize/{archive_format}{/ref}",
+                "downloads_url": "https://api.github.com/repos/nainkunal933/sequelize/downloads",
+                "issues_url": "https://api.github.com/repos/nainkunal933/sequelize/issues{/number}",
+                "pulls_url": "https://api.github.com/repos/nainkunal933/sequelize/pulls{/number}",
+                "milestones_url": "https://api.github.com/repos/nainkunal933/sequelize/milestones{/number}",
+                "notifications_url": "https://api.github.com/repos/nainkunal933/sequelize/notifications{?since,all,participating}",
+                "labels_url": "https://api.github.com/repos/nainkunal933/sequelize/labels{/name}",
+                "releases_url": "https://api.github.com/repos/nainkunal933/sequelize/releases{/id}",
+                "deployments_url": "https://api.github.com/repos/nainkunal933/sequelize/deployments",
+                "created_at": "2019-09-09T02:41:23Z",
+                "updated_at": "2019-09-09T02:16:51Z",
+                "pushed_at": "2019-09-08T19:03:24Z",
+                "git_url": "git://github.com/nainkunal933/sequelize.git",
+                "ssh_url": "git@github.com:nainkunal933/sequelize.git",
+                "clone_url": "https://github.com/nainkunal933/sequelize.git",
+                "svn_url": "https://github.com/nainkunal933/sequelize",
+                "homepage": "https://sequelize.org",
+                "size": 26110,
+                "stargazers_count": 0,
+                "watchers_count": 0,
+                "language": null,
+                "has_issues": false,
+                "has_projects": true,
+                "has_downloads": true,
+                "has_wiki": false,
+                "has_pages": false,
+                "forks_count": 0,
+                "mirror_url": null,
+                "archived": false,
+                "disabled": false,
+                "open_issues_count": 0,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "forks": 0,
+                "open_issues": 0,
+                "watchers": 0,
+                "default_branch": "master",
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-09T02:41:24Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10371894353",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11392",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/events",
+                "html_url": "https://github.com/sequelize/sequelize/issues/11392",
+                "id": 489847388,
+                "node_id": "MDU6SXNzdWU0ODk4NDczODg=",
+                "number": 11392,
+                "title": "Add types for primaryKeyAttributes into Model class",
+                "user": {
+                    "login": "nestorvanz",
+                    "id": 12944703,
+                    "node_id": "MDQ6VXNlcjEyOTQ0NzAz",
+                    "avatar_url": "https://avatars0.githubusercontent.com/u/12944703?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nestorvanz",
+                    "html_url": "https://github.com/nestorvanz",
+                    "followers_url": "https://api.github.com/users/nestorvanz/followers",
+                    "following_url": "https://api.github.com/users/nestorvanz/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nestorvanz/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nestorvanz/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nestorvanz/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nestorvanz/orgs",
+                    "repos_url": "https://api.github.com/users/nestorvanz/repos",
+                    "events_url": "https://api.github.com/users/nestorvanz/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nestorvanz/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 254836529,
+                        "node_id": "MDU6TGFiZWwyNTQ4MzY1Mjk=",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/good%20first%20issue",
+                        "name": "good first issue",
+                        "color": "bfe5bf",
+                        "default": true
+                    },
+                    {
+                        "id": 1465785850,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1ODUw",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20understood",
+                        "name": "status: understood",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 2,
+                "created_at": "2019-09-05T15:44:54Z",
+                "updated_at": "2019-09-08T23:44:19Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "body": "Please add `primaryKeyAttributes` to Model class to allow access to primaryKeyAttributes from TypeScript without errors.\r\n\r\nFile: sequelize/types/lib/model.d.ts\r\n```typescript\r\nexport abstract class Model<T = any, T2 = any> extends Hooks {\r\n  /** The name of the database table */\r\n  public static readonly tableName: string;\r\n\r\n  /**\r\n   * The name of the primary key attribute\r\n   */\r\n  public static readonly primaryKeyAttribute: string;\r\n\r\n  /**\r\n   * The name of the primary key attributes\r\n   */\r\n  public static readonly primaryKeyAttributes: string[];\r\n```"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/529255889",
+                "html_url": "https://github.com/sequelize/sequelize/issues/11392#issuecomment-529255889",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392",
+                "id": 529255889,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUyOTI1NTg4OQ==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-08T23:44:19Z",
+                "updated_at": "2019-09-08T23:44:19Z",
+                "author_association": "NONE",
+                "body": "@papb I am working on the issue and I have two questions:\r\n\r\n1) I have started the database containers using `docker-compose up postgres-95 mysql-57 mssql` but the tests are failing for mariadb. Contributing.md does not suggest any username or password for the database. \r\n\r\n![Snip20190908_8](https://user-images.githubusercontent.com/31940639/64496102-5f55f500-d256-11e9-9ab2-d724b837f1a9.png)\r\n\r\n2) I have added support for multiple key attributes using a string[] as shown in the screenshot below. Do you expect any other format for the names of the primaryKeyAttributes?\r\n\r\n![Snip20190908_7](https://user-images.githubusercontent.com/31940639/64496056-ed7dab80-d255-11e9-8909-a7ddef4a57a6.png)\r\n\r\n\r\nIf everything is done right then I will make a commit to the branch with the following commit message and open a PR. Thanks for your attention.  \r\n ```\r\nfeat: Added support for multiple primary key attributes\r\n\r\nAdded support for multiple primary key attributes in sequelize/types/lib/model.d.ts\r\n\r\nCloses #11392\r\n```"
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-08T23:44:19Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10371110742",
+        "type": "IssueCommentEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 790359,
+            "name": "sequelize/sequelize",
+            "url": "https://api.github.com/repos/sequelize/sequelize"
+        },
+        "payload": {
+            "action": "created",
+            "issue": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/11392",
+                "repository_url": "https://api.github.com/repos/sequelize/sequelize",
+                "labels_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/labels{/name}",
+                "comments_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/comments",
+                "events_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392/events",
+                "html_url": "https://github.com/sequelize/sequelize/issues/11392",
+                "id": 489847388,
+                "node_id": "MDU6SXNzdWU0ODk4NDczODg=",
+                "number": 11392,
+                "title": "Add types for primaryKeyAttributes into Model class",
+                "user": {
+                    "login": "nestorvanz",
+                    "id": 12944703,
+                    "node_id": "MDQ6VXNlcjEyOTQ0NzAz",
+                    "avatar_url": "https://avatars0.githubusercontent.com/u/12944703?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nestorvanz",
+                    "html_url": "https://github.com/nestorvanz",
+                    "followers_url": "https://api.github.com/users/nestorvanz/followers",
+                    "following_url": "https://api.github.com/users/nestorvanz/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nestorvanz/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nestorvanz/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nestorvanz/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nestorvanz/orgs",
+                    "repos_url": "https://api.github.com/users/nestorvanz/repos",
+                    "events_url": "https://api.github.com/users/nestorvanz/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nestorvanz/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "labels": [
+                    {
+                        "id": 254836529,
+                        "node_id": "MDU6TGFiZWwyNTQ4MzY1Mjk=",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/good%20first%20issue",
+                        "name": "good first issue",
+                        "color": "bfe5bf",
+                        "default": true
+                    },
+                    {
+                        "id": 1465785850,
+                        "node_id": "MDU6TGFiZWwxNDY1Nzg1ODUw",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/status:%20understood",
+                        "name": "status: understood",
+                        "color": "ffdf7f",
+                        "default": false
+                    },
+                    {
+                        "id": 1207536409,
+                        "node_id": "MDU6TGFiZWwxMjA3NTM2NDA5",
+                        "url": "https://api.github.com/repos/sequelize/sequelize/labels/type:%20typescript",
+                        "name": "type: typescript",
+                        "color": "000088",
+                        "default": false
+                    }
+                ],
+                "state": "open",
+                "locked": false,
+                "assignee": null,
+                "assignees": [],
+                "milestone": null,
+                "comments": 0,
+                "created_at": "2019-09-05T15:44:54Z",
+                "updated_at": "2019-09-08T17:50:49Z",
+                "closed_at": null,
+                "author_association": "NONE",
+                "body": "Please add `primaryKeyAttributes` to Model class to allow access to primaryKeyAttributes from TypeScript without errors.\r\n\r\nFile: sequelize/types/lib/model.d.ts\r\n```typescript\r\nexport abstract class Model<T = any, T2 = any> extends Hooks {\r\n  /** The name of the database table */\r\n  public static readonly tableName: string;\r\n\r\n  /**\r\n   * The name of the primary key attribute\r\n   */\r\n  public static readonly primaryKeyAttribute: string;\r\n\r\n  /**\r\n   * The name of the primary key attributes\r\n   */\r\n  public static readonly primaryKeyAttributes: string[];\r\n```"
+            },
+            "comment": {
+                "url": "https://api.github.com/repos/sequelize/sequelize/issues/comments/529226260",
+                "html_url": "https://github.com/sequelize/sequelize/issues/11392#issuecomment-529226260",
+                "issue_url": "https://api.github.com/repos/sequelize/sequelize/issues/11392",
+                "id": 529226260,
+                "node_id": "MDEyOklzc3VlQ29tbWVudDUyOTIyNjI2MA==",
+                "user": {
+                    "login": "nainkunal933",
+                    "id": 31940639,
+                    "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+                    "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/nainkunal933",
+                    "html_url": "https://github.com/nainkunal933",
+                    "followers_url": "https://api.github.com/users/nainkunal933/followers",
+                    "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+                    "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+                    "repos_url": "https://api.github.com/users/nainkunal933/repos",
+                    "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "created_at": "2019-09-08T17:50:49Z",
+                "updated_at": "2019-09-08T17:50:49Z",
+                "author_association": "NONE",
+                "body": "Hi, Can I work on this issue? "
+            }
+        },
+        "public": true,
+        "created_at": "2019-09-08T17:50:49Z",
+        "org": {
+            "id": 3591786,
+            "login": "sequelize",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/sequelize",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3591786?"
+        }
+    },
+    {
+        "id": "10350710207",
+        "type": "PushEvent",
+        "actor": {
+            "id": 31940639,
+            "login": "nainkunal933",
+            "display_login": "nainkunal933",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "avatar_url": "https://avatars.githubusercontent.com/u/31940639?"
+        },
+        "repo": {
+            "id": 205748547,
+            "name": "nainkunal933/my-geo",
+            "url": "https://api.github.com/repos/nainkunal933/my-geo"
+        },
+        "payload": {
+            "push_id": 3998784697,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/master",
+            "head": "6a9c52c7ed67559ca98fcf17b28ddc3aadc36db8",
+            "before": "3653388733b9ec4077a68baffd4dec675e9f9e55",
+            "commits": [
+                {
+                    "sha": "6a9c52c7ed67559ca98fcf17b28ddc3aadc36db8",
+                    "author": {
+                        "email": "azure-admin@m8systems.com",
+                        "name": "Kunal"
+                    },
+                    "message": "Added gitignore",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/nainkunal933/my-geo/commits/6a9c52c7ed67559ca98fcf17b28ddc3aadc36db8"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2019-09-05T04:00:00Z"
+    }
+]
