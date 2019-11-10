@@ -1,0 +1,81 @@
+[
+    {
+        "sha": "22d874c39f2ae75823962d7cec764437d4a2c4ce",
+        "node_id": "MDY6Q29tbWl0NzkwMzU5OjIyZDg3NGMzOWYyYWU3NTgyMzk2MmQ3Y2VjNzY0NDM3ZDRhMmM0Y2U=",
+        "commit": {
+            "author": {
+                "name": "Kunal Nain",
+                "email": "31940639+nainkunal933@users.noreply.github.com",
+                "date": "2019-09-27T05:22:38Z"
+            },
+            "committer": {
+                "name": "Sushant",
+                "email": "sushantdhiman@outlook.com",
+                "date": "2019-09-27T05:22:38Z"
+            },
+            "message": "fix(types): Model.primaryKeyAttributes (#11406)",
+            "tree": {
+                "sha": "4e3a52aab68ef569e1df7ba1bc5a74df8e54024b",
+                "url": "https://api.github.com/repos/sequelize/sequelize/git/trees/4e3a52aab68ef569e1df7ba1bc5a74df8e54024b"
+            },
+            "url": "https://api.github.com/repos/sequelize/sequelize/git/commits/22d874c39f2ae75823962d7cec764437d4a2c4ce",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/sequelize/sequelize/commits/22d874c39f2ae75823962d7cec764437d4a2c4ce",
+        "html_url": "https://github.com/sequelize/sequelize/commit/22d874c39f2ae75823962d7cec764437d4a2c4ce",
+        "comments_url": "https://api.github.com/repos/sequelize/sequelize/commits/22d874c39f2ae75823962d7cec764437d4a2c4ce/comments",
+        "author": {
+            "login": "nainkunal933",
+            "id": 31940639,
+            "node_id": "MDQ6VXNlcjMxOTQwNjM5",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/31940639?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/nainkunal933",
+            "html_url": "https://github.com/nainkunal933",
+            "followers_url": "https://api.github.com/users/nainkunal933/followers",
+            "following_url": "https://api.github.com/users/nainkunal933/following{/other_user}",
+            "gists_url": "https://api.github.com/users/nainkunal933/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/nainkunal933/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/nainkunal933/subscriptions",
+            "organizations_url": "https://api.github.com/users/nainkunal933/orgs",
+            "repos_url": "https://api.github.com/users/nainkunal933/repos",
+            "events_url": "https://api.github.com/users/nainkunal933/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/nainkunal933/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "sushantdhiman",
+            "id": 9989487,
+            "node_id": "MDQ6VXNlcjk5ODk0ODc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/9989487?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/sushantdhiman",
+            "html_url": "https://github.com/sushantdhiman",
+            "followers_url": "https://api.github.com/users/sushantdhiman/followers",
+            "following_url": "https://api.github.com/users/sushantdhiman/following{/other_user}",
+            "gists_url": "https://api.github.com/users/sushantdhiman/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/sushantdhiman/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/sushantdhiman/subscriptions",
+            "organizations_url": "https://api.github.com/users/sushantdhiman/orgs",
+            "repos_url": "https://api.github.com/users/sushantdhiman/repos",
+            "events_url": "https://api.github.com/users/sushantdhiman/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/sushantdhiman/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fb3f0734e1c5e1620433d0ce7176f159ad15e8b4",
+                "url": "https://api.github.com/repos/sequelize/sequelize/commits/fb3f0734e1c5e1620433d0ce7176f159ad15e8b4",
+                "html_url": "https://github.com/sequelize/sequelize/commit/fb3f0734e1c5e1620433d0ce7176f159ad15e8b4"
+            }
+        ]
+    }
+]
