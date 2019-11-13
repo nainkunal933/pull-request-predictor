@@ -1,0 +1,92 @@
+[
+    {
+        "pr_number": 11674,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 4,
+        "pr_time_duration": 96438.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11659,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 142940.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11654,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 1,
+        "pr_time_duration": 229601.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11653,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 1,
+        "pr_time_duration": 234783.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11648,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 2,
+        "pr_comment_count": 1,
+        "pr_time_duration": 309109.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11647,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 310890.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11643,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 3,
+        "pr_comment_count": 3,
+        "pr_time_duration": 391332.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11631,
+        "pr_status_check": 3,
+        "pr_user_type": 6,
+        "pr_user_contr": 0,
+        "pr_comment_count": 1,
+        "pr_time_duration": 195.0,
+        "pr_is_merged": 0
+    },
+    {
+        "pr_number": 11626,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 1,
+        "pr_comment_count": 2,
+        "pr_time_duration": 6094.0,
+        "pr_is_merged": 1
+    },
+    {
+        "pr_number": 11624,
+        "pr_status_check": 1,
+        "pr_user_type": 4,
+        "pr_user_contr": 0,
+        "pr_comment_count": 10,
+        "pr_time_duration": 125324.0,
+        "pr_is_merged": 1
+    }
+]
