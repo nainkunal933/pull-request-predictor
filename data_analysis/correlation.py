@@ -6,7 +6,7 @@ import os
 
 os.chdir('..')
 filepath = os.getcwd()
-filepath = filepath + "/data/output.json"
+filepath = filepath + "/data/norm_output.json"
 f = open(filepath, "r")
 
 json_data = json.loads(f.read())
