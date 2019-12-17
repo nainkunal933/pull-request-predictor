@@ -12,14 +12,11 @@ f = open(filepath, "r")
 
 json_data = json.loads(f.read())
 
-x = []
 y = []
 
 for data_object in json_data:
-    x.append(data_object['pr_status_check'])
     y.append(data_object['pr_is_merged'])
 
-x_array = np.array(x)
 y_array = np.array(y)
 
 x_array = x_array.reshape(-1, 1)
