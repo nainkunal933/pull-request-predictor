@@ -63,6 +63,7 @@ print("PR User Contribution R-Squared Score = ", reg_user_contr.score(x_array_us
 print("PR Comment Count R-Squared Score = ", reg_comment_count.score(x_array_comment_count, y_array))
 print("PR Time Duration R-Squared Score = ", reg_time_duration.score(x_array_time_duration, y_array))
 
+# Plotting the data
 fig, axs = plt.subplots(3, 2)
 axs[0, 0].plot(x_array_status_check, y_array)
 axs[0, 0].set_title('Status Check R-Squared')
