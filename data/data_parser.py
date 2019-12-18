@@ -76,7 +76,7 @@ for page_no in range(1, 6):
     append_data(api_response, final_object)
 
 # Dumping the JSON array to the JSON file
-with open("output.json", "w", encoding="utf-8") as f:
+with open("ouput.json", "w", encoding="utf-8") as f:
     json.dump(final_object, f, ensure_ascii=False, indent=4)
 
 print(len(final_object))
