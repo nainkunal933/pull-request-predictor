@@ -1,3 +1,6 @@
+# Author: Derek Opel
+# Date: December 17, 2019
+
 import json
 import numpy as np
 import matplotlib.pyplot as plt
