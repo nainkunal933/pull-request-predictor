@@ -1,4 +1,4 @@
-# Author: Derek Opel
+# Name: Derek Opel
 # Date: December 17, 2019
 
 import json
