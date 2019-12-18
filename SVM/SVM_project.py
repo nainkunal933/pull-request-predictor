@@ -1,3 +1,5 @@
+# Name: Derek Opel
+
 import json
 import numpy as np
 import matplotlib.pyplot as plt
